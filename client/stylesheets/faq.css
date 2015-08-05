@@ -1,0 +1,15 @@
+
+.faq ul li {
+    display:block;
+    float:left;
+    padding:5px;
+}
+
+.faq ul li div {
+    display:none;
+}
+
+.faq ul li div:target {
+    display:block;
+}
+

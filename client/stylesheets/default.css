@@ -1,0 +1,201 @@
+/* === color === */
+
+a, a:hover,a:focus,a:active, footer a.text-link:hover, strike, .post-meta span a:hover, footer a.text-link, 
+ul.meta-post li a:hover, ul.cat li a:hover, ul.recent li h6 a:hover, ul.portfolio-categ li.active a, ul.portfolio-categ li.active a:hover, ul.portfolio-categ li a:hover,ul.related-post li h4 a:hover, span.highlight,article .post-heading h3 a:hover,
+.navbar .nav > .active > a,.navbar .nav > .active > a:hover,.navbar .nav > li > a:hover,.navbar .nav > li > a:focus,.navbar .nav > .active > a:focus, .validation  { 
+	color:#13a3f7;
+}
+
+.navbar-brand span{
+    color: #13a3f7;
+}
+
+header .nav li a:hover,
+header .nav li a:focus,
+header .nav li.active a,
+header .nav li.active a:hover,
+header .nav li a.dropdown-toggle:hover,
+header .nav li a.dropdown-toggle:focus,
+header .nav li.active ul.dropdown-menu li a:hover,
+header .nav li.active ul.dropdown-menu li.active a{
+	color:#13a3f7;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+	color:#13a3f7;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+	color:#13a3f7;
+}	
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	color:#13a3f7;
+}
+/* === background color === */
+
+.custom-carousel-nav.right:hover, .custom-carousel-nav.left:hover, 
+.dropdown-menu li:hover,
+.dropdown-menu li a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a, 
+.dropdown-menu .active > a,
+.dropdown-menu .active > a:hover,
+.pagination ul > .active > a:hover,
+.pagination ul > .active > a,
+.pagination ul > .active > span,
+.flex-control-nav li a:hover, 
+.flex-control-nav li a.active {
+  background-color: #13a3f7;
+}
+
+
+.breadcrumb {
+  background-color: #13a3f7;
+}
+
+/* === border color === */
+.pagination ul > li.active > a,
+.pagination ul > li.active > span, a.thumbnail:hover, input[type="text"].search-form:focus {
+	border:1px solid #13a3f7;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #13a3f7;
+}
+
+input:focus {
+	border-color: #13a3f7;
+}
+
+
+#sendmessage {
+	color: #13a3f7;
+}
+
+.pullquote-left {
+	border-left:5px solid #13a3f7;
+}
+
+.pullquote-right {
+	border-right:5px solid #13a3f7;
+}
+
+/* cta */
+
+.cta-text h2 span {
+	color: #13a3f7;
+}
+
+ul.clients li:hover {
+	border:4px solid #13a3f7;
+}
+
+/* box */
+.box-bottom {
+	background:#13a3f7;
+}
+
+/* buttons */
+.btn-dark:hover,.btn-dark:focus,.btn-dark:active  {
+  background: #13a3f7;
+  border:1px solid #13a3f7;
+}
+
+.btn-theme {
+  border:1px solid #13a3f7;
+  background: #13a3f7;
+}
+
+/* modal styled */
+.modal.styled .modal-header {
+  background-color: #13a3f7;
+}
+
+
+/* content box */
+
+.content-box-alt.special .pricing-heading {
+	background: #13a3f7;
+}
+
+
+/* pagination */
+#pagination a:hover {
+    background: #13a3f7;
+}
+
+/* content box */
+.content-box.special .content-enablement{
+	background: #13a3f7;
+}
+
+
+/* fontawesome icons */
+.icon-square:hover,
+.icon-rounded:hover,
+.icon-circled:hover {
+    background-color: #13a3f7;
+}
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: #13a3f7;
+}
+
+/* fancybox */
+.fancybox-close:hover {
+	background-color:#13a3f7;
+}
+.fancybox-nav:hover span {
+	background-color:#13a3f7;
+}
+
+/* parallax c slider */
+.da-slide .da-link:hover{
+	background: #13a3f7;
+	border: 4px solid #13a3f7;
+}
+
+.da-dots span{
+	background: #13a3f7;
+}
+
+/* flexslider */
+#featured .flexslider .slide-caption {
+	border-left:5px solid #13a3f7;
+}
+
+/* Nivo slider */
+.nivo-directionNav a:hover {
+    background-color: #13a3f7;
+}
+.nivo-caption, .caption {
+	border-bottom: #13a3f7 5px solid;
+}
+
+/* footer */
+footer{
+	background:#13a3f7;
+}
+#sub-footer{
+	background:#13a3f7;
+}
+
