@@ -5,10 +5,11 @@
 # but you can also edit it by hand.
 
 meteor-platform
-insecure
 bootstrap
 mrt:bootstrap-3
 iron:router
 sacha:spin
 ian:accounts-ui-bootstrap-3
 accounts-password
+semantic:ui
+flemay:less-autoprefixer
